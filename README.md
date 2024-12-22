@@ -67,5 +67,5 @@ Proje sonunda elde edilen başarı oranları şu şekildedir:
 
 - **Orijinal Test Seti Başarı Oranı:** %61.92
 - **Işık Manipülasyonu Yapılmış Test Seti Başarı Oranı:** %50.51
-- **Renk Sabitliği Uygulanan Test Seti Başarı Oranı:** Modelin başarısı arttı, ancak daha fazla test yapılması gerekebilir.
+- **Renk Sabitliği Uygulanan Test Seti Başarı Oranı:** %48.91
 
